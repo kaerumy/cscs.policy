@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="cscs.policy"
+        interface="cscs.policy.interfaces.IProductSpecific" />
+</layers>
