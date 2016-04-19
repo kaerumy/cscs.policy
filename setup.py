@@ -42,7 +42,8 @@ setup(name='cscs.policy',
           'collective.portlet.collectionmultiview',
           'Solgema.fullcalendar',
           'collective.prettyphoto',
-          'wcc.carousel'
+          'wcc.carousel',
+          'wildcard.media'
           # -*- Extra requirements: -*-
       ],
       entry_points="""
